@@ -1,0 +1,8 @@
+t=int(input("Enter value of t:"))
+s=int (input("Enter value of s:"))
+print(t==s)
+print(t!=s)
+print(t<s)
+print(t>s)
+print(t<=s)
+print(t>=s)
